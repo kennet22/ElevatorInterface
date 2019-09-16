@@ -20,10 +20,18 @@ This project features an elevator interface created used Processing, Interfascia
 
 Example Elevator at uPointe:
 
+- Generally acceptable design
+  - Two buttons: alert and call for help?
+  - Additional buttons for lights, fan, and power?
+
 ![Example Elevator Gif](https://github.com/kennet22/ElevatorInterface/blob/master/elevatorGiph.gif?raw=true)
 
 My Processing design:
-
+- Features:
+  - Text to speech (ttslib)
+  - GUI interface (interfascia)
+  - Elevator status indicator
+  
 ![processing design](https://github.com/kennet22/ElevatorInterface/blob/master/Screen%20Shot%202019-09-15%20at%201.47.08%20PM.png?raw=true)
 ![mydesign](https://github.com/kennet22/ElevatorInterface/blob/master/myElevatorGif.gif?raw=true)
 
