@@ -8,6 +8,7 @@ Example Elevator at uPointe:
 My Processing design:
 
 ![processing design](https://github.com/kennet22/ElevatorInterface/blob/master/Screen%20Shot%202019-09-15%20at%201.47.08%20PM.png?raw=true)
+![mydesign](https://github.com/kennet22/ElevatorInterface/blob/master/myElevatorGif.gif?raw=true)
 
 
 In order to use this project:
