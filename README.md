@@ -39,8 +39,6 @@ My Processing design:
 In order to use this project:
 
 1. Install processing
-2. Install required libraries
-  2.1. Interfascia
-  2.2. ttslib
-3. Run
-4. :)
+2. Download project
+4. Run
+5. :)
