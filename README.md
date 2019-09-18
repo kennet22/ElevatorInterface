@@ -27,7 +27,7 @@ Example Elevator at uPointe:
   - Two buttons: alert and call for help?
   - Additional buttons for lights, fan, and power?
 
-![image](IMG_4694.img)
+![image](https://github.com/kennet22/ElevatorInterface/blob/master/IMG_4694.jpg?raw=true)
 ![Example Elevator Gif](https://github.com/kennet22/ElevatorInterface/blob/master/elevatorGiph.gif?raw=true)
 
 My Processing design:
