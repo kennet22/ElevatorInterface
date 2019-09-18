@@ -1,4 +1,4 @@
-# ElevatorInterface
+# Elevator Interface
 This project features an elevator interface created used Processing, Interfascia, and ttslib.
 
 - Common Use
@@ -7,7 +7,10 @@ This project features an elevator interface created used Processing, Interfascia
   - Move large animals within a building
 - Common Elevator Interfaces
   - Buttons on the exterior of the elevator provide options to go up or down
-  - Buttons in the elevator typically allow the user to select a floor to travel to, open and close the doors, and call for help
+  - Buttons in the elevator typically allow the user to 
+      - select a floor to travel to 
+    - open and close the doors
+    - call for help 
 - Feedback
   - Elevator buttons light up when pressed
   - Indicators above elevator show which floor it is on
